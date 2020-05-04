@@ -13,8 +13,8 @@
     <ul class="nav navbar-nav sideMenuBlack">
       {{ range .Site.Menus.mainmenu}}
       {{ if .HasChildren }}
-      <li><a data-toggle="collapse" href="#demo">{{.Name}}<span class="caret"></span></a></li>
-        <ul id="demo" class="collapse">
+      <li><a data-toggle="collapse" href='#{{ .Identifier }}'>{{.Name}}<span class="caret"></span></a></li>
+        <ul id='{{ .Identifier }}' class="collapse">
           {{ range .Children }}
           <li><a href="{{.URL}}">{{ .Name }}</a></li>
           {{ end }}
