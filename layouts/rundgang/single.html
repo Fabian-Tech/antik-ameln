@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<div>{{ .Content }}</div>
+
+{{ range (readDir "/static/img/Rundgang") }}
+<img style="max-width:150px;max-height:150px;" src="/img/Rundgang/{{ .Name }}">
+
+{{ end }}
+{{ end }}
