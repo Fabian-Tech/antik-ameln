@@ -4,7 +4,7 @@ title = "Waschtische"
 [menu.mainmenu]
 parent = "references"
 title = "Waschtische"
-weight = 1
+weight = 2
 
 +++
 ![](/img/Waschtisch%20(600%20x%20450).jpg.jpg)
