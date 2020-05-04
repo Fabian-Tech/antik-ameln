@@ -25,6 +25,22 @@ nav img{
     padding-right: 15px !important;
 }
 
+.sideMenuBlack>ul li{
+    float:none;
+    display: block;
+    font-size: 16pt;
+    letter-spacing: -2px;
+    border-right: solid 5px black;
+    color: #dfcebb;
+    text-decoration: none;
+    font-family: 'Century Gothic' , verdana, arial, helvetica, sans-serif;
+    text-align: right;
+    text-transform: uppercase;
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+    padding-right: 15px !important;
+}
+
 @media only screen and (max-width: 1199px) and (min-width: 992px){
     .sideMenuBlack>li{
         font-size: 16pt;
@@ -32,7 +48,7 @@ nav img{
     }
 }
 
-.sideMenuBlack>li>a{
+.sideMenuBlack li a{
     color: #dfcebb;
     background-color: black !important;
     padding: 5px;
