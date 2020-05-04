@@ -1,0 +1,9 @@
+---
+label: Standard
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+pages:
+- content/impressum.md
