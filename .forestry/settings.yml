@@ -7,17 +7,17 @@ sections:
 - type: directory
   path: Referenzen
   label: Referenzen
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: ÜberUns
   label: Über Uns - Unterpunkte
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content
   label: Seiten
-  create: all
+  create: documents
   match: "*"
 upload_dir: static/img
 public_path: "/uploads"
