@@ -2,7 +2,7 @@
 draft = true
 title = "Kontakt"
 [menu.mainmenu]
-weight = 4
+weight = 5
 
 +++
 Telefon: 0261 - 702566  

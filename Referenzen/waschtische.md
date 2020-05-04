@@ -1,6 +1,8 @@
 +++
 draft = true
 title = "Waschtische"
+[menu.mainmenu]
+weight = 7
 
 +++
 **!!! BILDER ZEIGEN NOCH AUF ALTE SEITE!!!  
