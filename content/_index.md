@@ -34,24 +34,17 @@ Gerne nehmen wir Sie mit auf einen **Rundgang** durch unsere Geschäft.
 * Abbeizen / Ablaugen rationell und schonend in unserem Laugebad
 * Lieferung weltweit
 
-Antik Ameln
-
-Vor dem Sauerwassertor 7
-
-56077 Koblenz - Ehrenbreitstein
-
-Tel. 0261 - 702566
-
-Fax 0261 - 702567
-
+Antik Ameln  
+Vor dem Sauerwassertor 7  
+56077 Koblenz - Ehrenbreitstein  
+Tel. 0261 - 702566  
+Fax 0261 - 702567  
 Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
 Öffnungszeiten:
 
-Donnerstag - Freitag 13.00 - 18.00 Uhr
-
-Samstag 12.00 - 16.00 Uhr
-
+Donnerstag - Freitag 13.00 - 18.00 Uhr  
+Samstag 12.00 - 16.00 Uhr  
 sowie nach persönlicher Absprache
 
 Montag bis Mittwoch arbeiten wir in der Werkstatt
