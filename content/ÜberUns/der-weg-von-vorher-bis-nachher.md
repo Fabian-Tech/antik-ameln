@@ -3,7 +3,8 @@ draft = true
 title = "DER WEG VON VORHER BIS NACHHER"
 [menu.mainmenu]
 name = "Restaurierungen, Holzwerkstatt"
-parent = "Über uns"
+title = "Restaurierungen, Holzwerkstatt"
+parent = "aboutUs"
 weight = 1
 
 +++

@@ -2,7 +2,7 @@
 draft = true
 title = "Waschtische"
 [menu.mainmenu]
-parent = "Referenzen"
+parent = "references"
 title = "Waschtische"
 weight = 1
 
