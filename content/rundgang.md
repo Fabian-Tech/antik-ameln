@@ -5,6 +5,7 @@ title = "Rundgang"
 type = "rundgang"
 [menu.mainmenu]
 weight = 3
+title = "Rundgang"
 
 +++
 ## HINWEIS
