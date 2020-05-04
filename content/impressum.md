@@ -1,8 +1,7 @@
 +++
 draft = true
-title = "impressum"
+title = "Impressum"
 [menu.mainmenu]
-name = "Impressum"
 weight = 3
 
 +++
