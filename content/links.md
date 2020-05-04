@@ -4,7 +4,7 @@ menu:
   mainmenu:
     name: Links
     title: Links
-    weight: 7
+    weight: 6
 draft: true
 
 ---
