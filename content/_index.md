@@ -10,7 +10,7 @@ draft: true
 ---
 ![](http://www.antik-ameln.de/Portals/36/PIC00091.jpg)
 
-WILLKOMMEN BEI UNS
+# WILLKOMMEN BEI UNS
 
 * Sie lieben antike Möbel?
 * Sie möchten Ihre Schätze aufbereiten und in "neuem altem" Zustand restaurieren?
@@ -28,7 +28,7 @@ WILLKOMMEN BEI UNS
 
 Gerne nehmen wir Sie mit auf einen **Rundgang** durch unsere Geschäft.
 
-# WIR BIETEN IHNEN
+### WIR BIETEN IHNEN
 
 * Restaurierungswerkstatt / Holzwerkstatt (**mehr..**)
 * antike Möbel original / funktional
