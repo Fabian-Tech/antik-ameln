@@ -26,7 +26,7 @@ draft: true
 
 Gerne nehmen wir Sie mit auf einen **Rundgang** durch unsere Geschäft.
 
-### WIR BIETEN IHNEN
+# WIR BIETEN IHNEN
 
 * Restaurierungswerkstatt / Holzwerkstatt (**mehr..**)
 * antike Möbel original / funktional
