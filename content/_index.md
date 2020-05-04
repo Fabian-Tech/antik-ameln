@@ -8,7 +8,7 @@ menu:
 draft: true
 
 ---
-![](http://www.antik-ameln.de/Portals/36/PIC00091.jpg)
+![](/img/PIC00091.jpg)
 
 # WILLKOMMEN BEI UNS
 
