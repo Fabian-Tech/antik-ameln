@@ -3,8 +3,8 @@ draft = true
 title = " ÖKOLOGISCHE HOLZSCHÄDLINGSBEKÄMPFUNG"
 [menu.mainmenu]
 name = "Holzschädlinge"
-weight = 2
-parent = "aboutUs"
+parent = "Über uns"
+weight = 1
 
 +++
 Garantiert todsicher!

@@ -4,7 +4,7 @@ gallery = []
 title = "Rundgang"
 type = "rundgang"
 [menu.mainmenu]
-weight = 4
+weight = 3
 
 +++
 ## HINWEIS
