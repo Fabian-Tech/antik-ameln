@@ -5,12 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: Referenzen
+  path: content/Referenzen
   label: Referenzen
   create: documents
   match: "**/*"
 - type: directory
-  path: ÜberUns
+  path: content/ÜberUns
   label: Über Uns - Unterpunkte
   create: documents
   match: "**/*"
