@@ -9,3 +9,5 @@ fields:
   type: image_gallery
   config: {}
   label: Fotos
+pages:
+- content/rundgang.md
