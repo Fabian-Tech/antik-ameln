@@ -8,7 +8,7 @@ menu:
 draft: true
 
 ---
-WILLKOMMEN BEI UNS
+![](http://www.antik-ameln.de/Portals/36/PIC00091.jpg)WILLKOMMEN BEI UNS
 
 * Sie lieben antike Möbel?
 * Sie möchten Ihre Schätze aufbereiten und in "neuem altem" Zustand restaurieren?
