@@ -2,7 +2,7 @@
 draft = true
 title = "Impressum"
 [menu.mainmenu]
-weight = 4
+weight = 5
 
 +++
 Inhaltlich Verantwortlicher gemäß § 6 MDStV:

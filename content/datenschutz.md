@@ -2,7 +2,7 @@
 draft = true
 title = "Datenschutz"
 [menu.mainmenu]
-weight = 6
+weight = 7
 
 +++
 Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
