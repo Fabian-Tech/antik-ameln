@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "de-de"
 title = "Antik Ameln"
+[[menu.mainmenu]]
+identifier = "references"
+name = "Referenzen"

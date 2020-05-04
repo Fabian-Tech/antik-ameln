@@ -3,6 +3,7 @@ draft = true
 title = "Waschtische"
 [menu.mainmenu]
 weight = 7
+parent = "references"
 
 +++
 ![](/img/Waschtisch%20(600%20x%20450).jpg.jpg)
