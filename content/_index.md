@@ -2,6 +2,7 @@
 title: SEIT MEHR ALS 30 JAHREN IN EHRENBREITSTEIN
 menu:
   mainmenu:
+    identifier: aboutUs
     name: Über uns
     weight: 1
 draft: true

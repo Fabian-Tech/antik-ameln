@@ -4,6 +4,7 @@ title = " ÖKOLOGISCHE HOLZSCHÄDLINGSBEKÄMPFUNG"
 [menu.mainmenu]
 name = "Holzschädlinge"
 weight = 2
+parent = "aboutUs"
 
 +++
 Garantiert todsicher!

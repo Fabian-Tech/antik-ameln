@@ -4,6 +4,7 @@ title = "DER WEG VON VORHER BIS NACHHER"
 [menu.mainmenu]
 name = "Restaurierungen, Holzwerkstatt"
 weight = 3
+parent = "aboutUs"
 
 +++
 !!! NOCH ÜBERARBEITEN!!!  
