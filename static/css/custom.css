@@ -3,13 +3,18 @@ body{
     background-color: black;
 }
 
+nav img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .sideMenuBlack>li{
     float:none;
-    width: 210px;
     display: block;
     font-size: 18pt;
-    float: left;
     border-bottom: solid 1px #dfcebb;
+    border-right: solid 5px black;
     color: #dfcebb;
     text-decoration: none;
     font-family: 'Century Gothic' , verdana, arial, helvetica, sans-serif;
@@ -18,6 +23,13 @@ body{
     padding-bottom: 5px !important;
     padding-top: 5px !important;
     padding-right: 15px !important;
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+    .sideMenuBlack>li{
+        font-size: 16pt;
+        letter-spacing: -2px;
+    }
 }
 
 .sideMenuBlack>li>a{
@@ -29,4 +41,13 @@ body{
 .nav li a:hover{
 	/*background-color: black;*/
 	color: #5d5044;
+}
+
+.navbar-collapse{
+    padding-left: 5px !important;
+    padding-right: none !important;
+}
+
+.navbar-nav {
+    float: none !important;
 }
