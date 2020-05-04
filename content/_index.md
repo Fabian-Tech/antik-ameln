@@ -44,7 +44,7 @@ Tel. 0261 - 702566
 
 Fax 0261 - 702567
 
-Email antik.ameln@t-online.de
+Email [antik.ameln@t-online.de](mailto:antik.ameln@t-online.de)
 
 Öffnungszeiten:
 
