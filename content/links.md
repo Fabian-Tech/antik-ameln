@@ -2,8 +2,8 @@
 title: INTERESSANTE LINKS ZU UNSEREN PARTNERN UND FREUNDEN
 menu:
   mainmenu:
-    name: LINKS
-    weight: 4
+    name: Links
+    weight: 5
 draft: true
 
 ---
