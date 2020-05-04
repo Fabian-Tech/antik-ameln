@@ -1,5 +1,5 @@
 <img src="\img\logo.jpg">
-<br>
+<br><br>
 <nav>
       <div class="navbar-header">
         <button type="button" class="navbar-toggle navbar-toggle-custom" data-toggle="collapse" data-target="#myNavbar">
@@ -10,17 +10,17 @@
         </button>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav sideMenuBlack">
           {{ range .Site.Menus.mainmenu}}
           {{ if .HasChildren }}
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">{{.Name}}<span class="caret"></span></a>
             <ul class="dropdown-menu">
               {{ range .Children }}
-              <li><a href="{{.URL}}">{{upper .Name }}</a></li>
+              <li><a href="{{.URL}}">{{ .Name }}</a></li>
               {{ end }}
             </ul>
           {{ else}}
-          <li><a href="{{.URL}}">{{upper .Name}}</a></li>
+          <li><a class="" href="{{.URL}}">{{ .Name}}</a></li>
           {{ end }}
         {{ end }}
 

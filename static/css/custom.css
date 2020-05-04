@@ -3,10 +3,30 @@ body{
     background-color: black;
 }
 
-.navbar-nav>li{
+.sideMenuBlack>li{
     float:none;
+    width: 210px;
+    display: block;
+    font-size: 18pt;
+    float: left;
+    border-bottom: solid 1px #dfcebb;
+    color: #dfcebb;
+    text-decoration: none;
+    font-family: 'Century Gothic' , verdana, arial, helvetica, sans-serif;
+    text-align: right;
+    text-transform: uppercase;
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+    padding-right: 15px !important;
 }
 
-.navbar-nav>li>a{
+.sideMenuBlack>li>a{
     color: #dfcebb;
+    background-color: black !important;
+    padding: 5px;
+}
+
+.nav li a:hover{
+	/*background-color: black;*/
+	color: #5d5044;
 }
