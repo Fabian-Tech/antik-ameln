@@ -6,9 +6,9 @@ fields:
   name: title
   label: title
 pages:
-- Referenzen/waschtische.md
+- content/Referenzen/waschtische.md
 - content/datenschutz.md
 - content/impressum.md
 - content/kontakt.md
-- ÜberUns/der-weg-von-vorher-bis-nachher.md
-- ÜberUns/ökologische-holzschädlingsbekämpfung.md
+- content/ÜberUns/der-weg-von-vorher-bis-nachher.md
+- content/ÜberUns/ökologische-holzschädlingsbekämpfung.md

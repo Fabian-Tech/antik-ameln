@@ -3,7 +3,7 @@ draft = true
 title = " ÖKOLOGISCHE HOLZSCHÄDLINGSBEKÄMPFUNG"
 [menu.mainmenu]
 name = "Holzschädlinge"
-weight = 3
+weight = 2
 
 +++
 Garantiert todsicher!

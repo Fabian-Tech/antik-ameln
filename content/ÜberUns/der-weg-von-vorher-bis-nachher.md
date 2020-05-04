@@ -1,6 +1,9 @@
 +++
 draft = true
 title = "DER WEG VON VORHER BIS NACHHER"
+[menu.mainmenu]
+name = "Restaurierungen, Holzwerkstatt"
+weight = 3
 
 +++
 !!! NOCH ÜBERARBEITEN!!!  

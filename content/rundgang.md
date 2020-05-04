@@ -3,7 +3,7 @@ draft = true
 gallery = []
 title = "Rundgang"
 [menu.mainmenu]
-weight = 2
+weight = 4
 
 +++
 ## HINWEIS
