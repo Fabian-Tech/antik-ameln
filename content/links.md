@@ -15,4 +15,4 @@ draft: true
 
 [![](http://www.antik-ameln.de/Portals/36/biopin.gif)](http://biopin.de/)
 
-[**Datenschutzerklärung**](http://www.antik-ameln.de/LinkClick.aspx?link=1388&tabid=1385&language=de-DE)
+[**Datenschutzerklärung**](/datenschutz)
