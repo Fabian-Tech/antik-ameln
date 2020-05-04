@@ -2,3 +2,11 @@ body{
     color: #dfcebb;
     background-color: black;
 }
+
+.navbar-nav>li{
+    float:none;
+}
+
+.navbar-nav>li>a{
+    color: #dfcebb;
+}

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
@@ -7,8 +8,8 @@
     <meta name="RATING" content="GENERAL">
     {{partial "meta" . }}
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
     <!-- Evtl. wegnehmen -->
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
@@ -24,7 +25,7 @@
 
     <!-- Custom Stylesheet-->
     <link rel="stylesheet" href="/css/custom.css">
-    
+
 </head>
 
 <body>
@@ -33,18 +34,18 @@
         {{partial "header" . }}
 
         <div class="row">
-            <div class="col-md-12">
-                <div class="">
 
-                    {{partial "navbar" . }}
+            <div class="col-md-4">
 
-                <div class="">
-                    {{ block "main" . }}
-                    <!-- The part of the page that begins to differ between templates -->
-                    {{ end }}
-                </div>
+                {{partial "navbar" . }}
             </div>
+            <div class="col-md-8">
+                {{ block "main" . }}
+                <!-- The part of the page that begins to differ between templates -->
+                {{ end }}
             </div>
+
+
         </div>
     </div>
     <br>
