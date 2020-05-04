@@ -7,3 +7,4 @@ fields:
   label: title
 pages:
 - content/impressum.md
+- content/kontakt.md
