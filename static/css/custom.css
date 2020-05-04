@@ -3,11 +3,21 @@ body{
     background-color: black;
 }
 
+img{
+    max-width: 100%;
+}
+
+h1{
+    font-size: 18pt;
+    border-bottom: solid 1px #5d5044;
+}
+
 nav img{
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;;
 }
+
 
 .sideMenuBlack>li{
     float:none;
@@ -41,12 +51,12 @@ nav img{
     padding-right: 15px !important;
 }
 
-@media only screen and (max-width: 1199px) and (min-width: 992px){
+/*@media only screen and (max-width: 1199px) and (min-width: 992px){
     .sideMenuBlack>li{
         font-size: 16pt;
         letter-spacing: -2px;
     }
-}
+}*/
 
 .sideMenuBlack li a{
     color: #dfcebb;
