@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Impressum"
 [menu.mainmenu]
 title = "Impressum"
