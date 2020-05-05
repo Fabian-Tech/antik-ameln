@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "DER WEG VON VORHER BIS NACHHER"
 [menu.mainmenu]
 name = "Restaurierungen, Holzwerkstatt"
