@@ -6,6 +6,7 @@ fields:
   name: title
   label: title
 pages:
+- content/Referenzen/eichebalkenbett.md
 - content/Referenzen/panoram.md
 - content/Referenzen/waschtische.md
 - content/datenschutz.md
