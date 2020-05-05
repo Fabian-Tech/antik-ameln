@@ -7,6 +7,9 @@ type = "rundgang"
 title = "Rundgang"
 weight = 5
 [[gallery]]
+image = "/img/Rundgang/hochgetsellte Truhe (450 x 600).jpg"
+text = "hochgestellte Truhe aus dem Biedermeier - verkauft"
+[[gallery]]
 image = "/img/Rundgang/SAM_0356.jpg"
 text = "Biedermeierschrank - verkauft"
 [[gallery]]
