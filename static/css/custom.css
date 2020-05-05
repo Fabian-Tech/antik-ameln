@@ -7,6 +7,25 @@ img{
     max-width: 100%;
 }
 
+a{
+    color: #dfcebb !important;
+}
+
+footer{
+    border-top: solid 1px #5d5044;
+    color: #5d5044;
+}
+
+footer a{
+    color: #5d5044 !important;
+}
+
+footer div{
+    float:right;
+}
+
+
+
 .content img{
     float:left;
 }
