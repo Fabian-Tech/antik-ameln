@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Datenschutz"
 [menu.mainmenu]
 title = "Datenschutz"
