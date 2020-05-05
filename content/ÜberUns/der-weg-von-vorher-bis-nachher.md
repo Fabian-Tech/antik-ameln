@@ -14,7 +14,7 @@ Der Weg von vorher
 
 bis nachher
 
-![](/img/PIC00363%20(576%20x%20432).jpg =576x432)
+![](/img/PIC00363%20(576%20x%20432).jpg)
 
 oder Shabby Chic
 
