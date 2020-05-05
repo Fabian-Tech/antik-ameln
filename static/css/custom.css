@@ -24,7 +24,13 @@ footer div{
     float:right;
 }
 
+iframe{
+    float:right;
+}
 
+.gallery{
+    text-decoration: none !important;
+}
 
 .content img{
     float:left;

@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "de-de"
 title = "Antik Ameln"
+assetDir = "static"
 [[menu.mainmenu]]
 name = "references"
 title = "Referenzen"

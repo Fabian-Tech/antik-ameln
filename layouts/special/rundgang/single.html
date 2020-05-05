@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div>
+    <h1>Hinweis</h1>
+    <p>{{ .Param "hint" }}</p>
+</div>
+
+<h1>{{ .Title }}</h1>
+
+
+{{range .Param "gallery"}}
+
+{{if (resources.GetMatch .)}}
+{{ $originalimg := resources.GetMatch (.) }}
+{{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
+{{ $thumbnail := $.Scratch.Get "image" }}
+<a class="gallery" href="{{.}}">
+    <img src='{{ $thumbnail.RelPermalink }}'>
+</a>
+{{ else }}
+<script>console.log({{.}})</script>
+{{ end }}
+{{ end }}
+{{ end }}
