@@ -5,10 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: Fotos
 - name: hint
   type: textarea
   default: ''
@@ -18,5 +14,9 @@ fields:
     schema:
       format: markdown
   label: Hinweis
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Fotos
 pages:
 - content/rundgang.md
