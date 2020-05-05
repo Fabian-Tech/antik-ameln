@@ -2,13 +2,21 @@
 label: Bild&Text
 hide_body: true
 fields:
-- name: image
-  type: file
+- name: textandImages
+  type: field_group_list
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Bild
   config:
-    maxSize: 64
-  label: Bild
-- name: text
-  type: text
-  config:
-    required: false
-  label: Text
+    min: 
+    max: 
+    labelField: 
+  label: Text & Bild
