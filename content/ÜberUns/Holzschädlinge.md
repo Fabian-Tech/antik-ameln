@@ -1,5 +1,4 @@
 +++
-draft = true
 title = " ÖKOLOGISCHE HOLZSCHÄDLINGSBEKÄMPFUNG"
 [menu.mainmenu]
 name = "Holzschädlinge"
