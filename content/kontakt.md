@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Kontakt"
 type = "special/kontakt"
 [menu.mainmenu]
