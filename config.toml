@@ -2,7 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "de-de"
 title = "Antik Ameln"
 assetDir = "static"
-disableKinds = [“taxonomy”, “taxonomyTerm”]
 [[menu.mainmenu]]
 name = "references"
 title = "Referenzen"
