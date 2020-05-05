@@ -15,8 +15,12 @@ fields:
       format: markdown
   label: Hinweis
 - name: gallery
-  type: image_gallery
-  config: {}
-  label: Fotos
+  type: blocks
+  label: Bildergallerie
+  template_types:
+  - bild-text
+  config:
+    min: 
+    max: 
 pages:
 - content/rundgang.md
