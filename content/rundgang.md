@@ -6,6 +6,10 @@ type = "rundgang"
 [menu.mainmenu]
 title = "Rundgang"
 weight = 5
+[[gallery]]
+image = "/img/Rundgang/P1070817.jpg"
+template = "bild-text"
+text = "Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert"
 
 +++
 ## HINWEIS
