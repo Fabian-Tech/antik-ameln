@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Waschtische"
 [menu.mainmenu]
 parent = "references"
