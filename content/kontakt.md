@@ -15,4 +15,4 @@ Vor dem Sauerwassertor 7
   
 E-Mail: antik.ameln@t-online.de
 
-Wenn Sie mit uns in Verbindung treten erkennen Sie unsere [**Datenschutzerklärung**](http://antik-ameln.de/LinkClick.aspx?link=1388&tabid=772&language=de-DE) an.
+Wenn Sie mit uns in Verbindung treten erkennen Sie unsere [**Datenschutzerklärung**](/datenschutz) an.
