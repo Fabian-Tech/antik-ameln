@@ -6,22 +6,6 @@ type = "rundgang"
 [menu.mainmenu]
 title = "Rundgang"
 weight = 5
-[[gallery]]
-image = "/img/Rundgang/hochgetsellte Truhe (450 x 600).jpg"
-text = "hochgestellte Truhe aus dem Biedermeier - verkauft"
-[[gallery]]
-image = "/img/Rundgang/SAM_0356.jpg"
-text = "Biedermeierschrank - verkauft"
-[[gallery]]
-image = "/img/Rundgang/SAM_0359.jpg"
-text = "4 schübige Kommode"
-[[gallery]]
-image = "/img/Rundgang/SAM_0361.jpg"
-text = " Louis Phillip Kommode"
-[[gallery]]
-image = "/img/Rundgang/P1070817.jpg"
-template = "bild-text"
-text = "Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert"
 
 +++
 ## HINWEIS
