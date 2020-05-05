@@ -7,14 +7,14 @@ title = "Panoram"
 
 #### **Bergezustand**
 
-![](http://www.antik-ameln.de/Portals/36/CIMG0010.jpg)![](http://www.antik-ameln.de/Portals/36/CIMG0013.jpg)![](http://www.antik-ameln.de/Portals/36/CIMG0007.jpg)
+![](/img/CIMG0010.jpg)![](/img/CIMG0013.jpg)![](/img/CIMG0007.jpg)
 
-![](http://www.antik-ameln.de/Portals/36/CIMG0008.jpg)![](http://www.antik-ameln.de/Portals/36/CIMG0012.jpg)![](http://www.antik-ameln.de/Portals/36/CIMG0025.jpg)
+![](/img/CIMG0008.jpg)![](/img/CIMG0012.jpg)![](/img/CIMG0025.jpg)
 
 **Zustand nach der Restaurierung**
 
-![](http://www.antik-ameln.de/Portals/36/P1050003.jpg)
+![](/img/P1050003.jpg)
 
-![](http://www.antik-ameln.de/Portals/36/P1050004.jpg)
+![](/img/P1050004.jpg)
 
-![](http://www.antik-ameln.de/Portals/36/P1050005.jpg)
+![](/img/P1050005.jpg)
