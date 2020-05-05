@@ -21,6 +21,15 @@ img{
     clear: left;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    text-transform: uppercase;
+}
+
 h1{
     font-size: 18pt;
     border-bottom: solid 1px #5d5044;
