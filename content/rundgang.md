@@ -8,7 +8,7 @@ title = "Rundgang"
 weight = 5
 [[gallery]]
 image = "/img/Rundgang/SAM_0356.jpg"
-text = "Biedermeierschrank  Verkauft"
+text = "Biedermeierschrank - verkauft"
 [[gallery]]
 image = "/img/Rundgang/SAM_0359.jpg"
 text = "4 schübige Kommode"
