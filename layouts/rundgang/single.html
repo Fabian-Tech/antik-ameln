@@ -3,8 +3,12 @@
 
 <div>{{ .Content }}</div>
 
-{{ range (readDir "/static/img/Rundgang") }}
-<img style="max-width:150px;max-height:150px;" src="/img/Rundgang/{{ .Name }}">
+{{range .Param "gallery"}}
+
+<img style="max-width:150px;max-height:150px;" src="{{ . }}">
+
+{{/* range (readDir "/static/img/Rundgang") */}}
+<!--<img style="max-width:150px;max-height:150px;" src="/img/Rundgang/{{/* .Name */}}">-->
 
 {{ end }}
 {{ end }}

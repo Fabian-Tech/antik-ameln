@@ -1,6 +1,6 @@
 +++
 draft = true
-gallery = ["/uploads/Rundgang/P1070039.jpg", "/uploads/Rundgang/P1070817.jpg"]
+gallery = ["/img/Rundgang/P1070039.jpg", "/img/Rundgang/P1070817.jpg"]
 hint = ""
 title = "Rundgang"
 type = "rundgang"
