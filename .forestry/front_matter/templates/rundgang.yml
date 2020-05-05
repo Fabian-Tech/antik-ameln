@@ -20,7 +20,7 @@ fields:
   template_types:
   - bild-text
   config:
-    min: 
+    min: 1
     max: 
 pages:
 - content/rundgang.md
