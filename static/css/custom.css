@@ -53,7 +53,7 @@ nav img{
     float:none;
     display: block;
     font-size: 16pt;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     border-right: solid 5px black;
     color: #dfcebb;
     text-decoration: none;
@@ -62,15 +62,21 @@ nav img{
     text-transform: uppercase;
     padding-bottom: 5px !important;
     padding-top: 5px !important;
-    padding-right: 15px !important;
+    padding-right: 15px;
 }
 
-/*@media only screen and (max-width: 1199px) and (min-width: 992px){
-    .sideMenuBlack>li{
-        font-size: 16pt;
-        letter-spacing: -2px;
+.sideMenuBlack>.collapse,
+.sideMenuBlack>.collapsing{
+    padding-inline-start: 0px;
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+    .sideMenuBlack>ul li{
+        font-size: 15pt;
+        letter-spacing: -1px;
+        padding-right: 0px;
     }
-}*/
+}
 
 .sideMenuBlack li a{
     color: #dfcebb;
