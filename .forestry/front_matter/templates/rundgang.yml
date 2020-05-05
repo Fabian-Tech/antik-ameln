@@ -1,6 +1,6 @@
 ---
 label: Rundgang
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
@@ -9,5 +9,14 @@ fields:
   type: image_gallery
   config: {}
   label: Fotos
+- name: hint
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Hinweis
 pages:
 - content/rundgang.md
