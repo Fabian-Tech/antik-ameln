@@ -1,3 +1,4 @@
 # Hugo default output directory
 /.vscode
 resources/_gen/
+Backup/
