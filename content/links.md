@@ -5,7 +5,6 @@ menu:
     name: Links
     title: Links
     weight: 9
-draft: true
 
 ---
 **Gute Gewürze sind zu finden bei Pfeffersack und Söhne, 56068 Koblenz, Hohenzollerstraße 117**
