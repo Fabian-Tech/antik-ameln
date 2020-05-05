@@ -1,6 +1,7 @@
 +++
 draft = true
-gallery = []
+gallery = ["/uploads/Rundgang/P1070039.jpg", "/uploads/Rundgang/P1070817.jpg"]
+hint = ""
 title = "Rundgang"
 type = "rundgang"
 [menu.mainmenu]
