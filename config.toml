@@ -7,3 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 name = "references"
 title = "Referenzen"
 weight = 8
+
+[[module.mounts]]
+source = "static"
+target = "assets"
