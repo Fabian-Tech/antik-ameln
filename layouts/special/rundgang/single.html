@@ -10,7 +10,9 @@
 
 {{range .Param "gallery"}}
 {{ $test := print (.)}}
-{{if (resources.GetMatch .)}}
+{{ with $}}
+{{if (resources.GetMatch $test)}}
+{{ end }}
 {{ $originalimg := resources.GetMatch $test }}
 {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
 {{ $thumbnail := $.Scratch.Get "image" }}
