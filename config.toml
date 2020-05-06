@@ -3,7 +3,6 @@ languageCode = "de-de"
 title = "Antik Ameln"
 assetDir = "/static/"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-disablePathToLower = true
 [[menu.mainmenu]]
 name = "references"
 title = "Referenzen"

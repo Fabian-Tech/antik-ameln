@@ -11,7 +11,7 @@
 {{range .Param "gallery"}}
     {{ $test := print (.)}}
     {{ with $}}
-            {{ $originalimg := resources.GetMatch $test }}
+            {{ $originalimg := resources.GetMatch ($test | safeHTML) }}
             {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
             {{ $thumbnail := $.Scratch.Get "image" }}
             <a class="gallery" href="{{$test}}">
