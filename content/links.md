@@ -13,6 +13,6 @@ menu:
 
 **Wir verarbeiten Öle und Lacke der Firma**
 
-[![](http://www.antik-ameln.de/Portals/36/biopin.gif)](http://biopin.de/)
+[![](/img/biopin.gif)](http://biopin.de/)
 
 [**Datenschutzerklärung**](/datenschutz)
