@@ -9,17 +9,18 @@
 
 
 {{range .Param "gallery"}}
+    {{ $url := . }}
     {{ $test := print (.)}}
     {{ with $}}
         {{if (resources.GetMatch $test)}}
             {{ $originalimg := resources.GetMatch $test }}
-            {{.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
-            {{ $thumbnail := .Scratch.Get "image" }}
-            <a class="gallery" href="{{.}}">
+            {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
+            {{ $thumbnail := $.Scratch.Get "image" }}
+            <a class="gallery" href="{{$url}}">
                 <img src='{{ $thumbnail.RelPermalink }}'>
             </a>
         {{ else }}
-            <script>console.log({{.}})</script>
+            <script>console.log("Error")</script>
         {{ end }}
     {{ end }}
 {{ end }}
