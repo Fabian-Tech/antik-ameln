@@ -1,7 +1,12 @@
 ---
 title: test
 type: test
+
 ---
+Dies ist ein Test zu den Bildergalerien  
+Die 1. Lösung ist es den Markdown renderer zu überschreiben, sodass auf einer bestimmten Seite Bilder anders dargestellt werden Hierzu müssen dann die Bilder aber wohl im .Content der zugehörigen Seite liegen. Die alternative wäre wohl das einlesen von einem Data File mit mehreren Regex operationen.
+
+# .CONTENT
 
 ![Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert](/img/rundgang/P1070817.jpg)
 
