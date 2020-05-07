@@ -5,9 +5,8 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: document
-  path: data/Fotogalerie.md
+  path: data/fotogalerie.md
   label: Rundgang Fotos
-  match: "**/*"
 - type: directory
   path: content/Referenzen
   label: Referenzen
