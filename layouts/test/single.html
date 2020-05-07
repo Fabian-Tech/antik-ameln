@@ -2,17 +2,15 @@
 
 <p>
     Dies ist ein Test zu den Bildergalerien<br>
-    Die 1. Lösung ist es den Markdown renderer zu überschreiben, sodass auf einer bestimmten Seite Bilder anders dargestellt werden
-    Hierzu müssen dann die Bilder aber wohl im .Content der zugehörigen Seite liegen.
-    Die alternative wäre wohl das einlesen von einem Data File mit mehreren Regex operationen.
+    Die hier dargestellte Lösung ist den Markdown renderer für Bilder zu überschreiben, sodass auf einer bestimmten Seite Bilder anders dargestellt werden.
 </p>
 
 
 <p>In Forestry sieht das dann So aus:</p>
 <img src="/img/test.jpg">
+<p>Das mag in gewisser Weise der Eleganteste Weg sein die Bildergallerie aufzubauen, aber der Kunde kann hier prinzipiell auch Text oder Absätze einbauen die das Layout dann beeinflussen...</p>
 
-
-<h1>.Content</h1>
+<h1>.Content:</h1>
 {{ .Content}}
 
 
@@ -21,8 +19,8 @@
 {{ $photos := readFile "/data/fotogalerie.md" }}
 {{ $photos := (replaceRE `---[\S\s]+---` "" $photos) }}
 <p>{{ $photos }}</p>
-{{ $photos := markdownify $photos }}
-{{ $photos}}
+{{/* $photos := markdownify $photos */}}
+{{ .RenderString $photos}}
 </div>
 
     <!-- Bootstrap Lightbox by ahsleydw MIT License-->
