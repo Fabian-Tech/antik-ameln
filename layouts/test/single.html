@@ -4,6 +4,7 @@
     Dies ist ein Test zu den Bildergalerien<br>
     Die 1. Lösung ist es den Markdown renderer zu überschreiben, sodass auf einer bestimmten Seite Bilder anders dargestellt werden
     Hierzu müssen dann die Bilder aber wohl im .Content der zugehörigen Seite liegen.
+    Die alternative wäre wohl das einlesen von einem Data File mit mehreren Regex operationen.
 </p>
 
 <h1>.Content</h1>
@@ -11,17 +12,12 @@
 
 
 
-<h1>test</h1>
+<h1>Einlesen einer Datei "/data/fotogalerie.md":</h1>
 {{ $photos := readFile "/data/fotogalerie.md" }}
 {{ $photos := (replaceRE `---[\S\s]+---` "" $photos) }}
-{{ findRE "---.+---" $photos }}<br>
-{{ $photos }}
-
-<div style="background-color:orange;">
-    {{range (findRE `title=".+"` $photos)}}
-    {{/* . */}}
-    {{end}}
-    {{ $photos | markdownify}}
+<p>{{ $photos }}</p>
+{{ $photos := markdownify $photos }}
+{{ $photos}}
 </div>
 
     <!-- Bootstrap Lightbox by ahsleydw MIT License-->
