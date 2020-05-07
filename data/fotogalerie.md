@@ -1,6 +1,5 @@
 ---
 title: fotogalerie
-
 ---
 
 ![Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert](/img/rundgang/P1070817.jpg)

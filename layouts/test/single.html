@@ -1,30 +1,28 @@
 {{ define "main" }}
 
-<div>
-    <h1>Hinweis</h1>
-    <p>{{ .Param "hint" }}</p>
+<p>
+    Dies ist ein Test zu den Bildergalerien<br>
+    Die 1. Lösung ist es den Markdown renderer zu überschreiben, sodass auf einer bestimmten Seite Bilder anders dargestellt werden
+    Hierzu müssen dann die Bilder aber wohl im .Content der zugehörigen Seite liegen.
+</p>
+
+<h1>.Content</h1>
+{{ .Content}}
+
+
+
+<h1>test</h1>
+{{ $photos := readFile "/data/fotogalerie.md" }}
+{{ $photos := (replaceRE `---[\S\s]+---` "" $photos) }}
+{{ findRE "---.+---" $photos }}<br>
+{{ $photos }}
+
+<div style="background-color:orange;">
+    {{range (findRE `title=".+"` $photos)}}
+    {{/* . */}}
+    {{end}}
+    {{ $photos | markdownify}}
 </div>
-
-<h1>{{ .Title }}</h1>
-
-
-{{range .Param "gallery"}}
-    {{ $test := print (.)}}
-    {{ with $}}
-        {{if (resources.GetMatch $test)}}
-            {{ $originalimg := resources.GetMatch $test }}
-            {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
-            {{ $thumbnail := $.Scratch.Get "image" }}
-            <a class="gallery" href="{{$test}}" data-toggle="lightbox" data-gallery="rundgang">
-                <img src='{{ $thumbnail.RelPermalink }}'>
-            </a>
-        {{ else }}
-        <script>console.log({{ resources.GetMatch $test }})</script>
-        <script>console.log({{ $test }})</script>
-        <script>console.log({{ resources }})</script>
-        {{ end }}
-    {{ end }}
-{{ end }}
 
     <!-- Bootstrap Lightbox by ahsleydw MIT License-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
@@ -34,6 +32,6 @@
 		$(document).on("click", '[data-toggle="lightbox"]', function(event) {
 		  event.preventDefault();
 		  $(this).ekkoLightbox();
-		});
+        });
     </script>
 {{ end }}

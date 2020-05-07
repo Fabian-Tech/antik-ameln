@@ -1,0 +1,7 @@
+{{if (eq .Page.Title "test")}}
+<img class="gallery" href="{{ .Destination | safeURL }}" 
+data-toggle="lightbox" data-gallery="rundgang" src="{{ .Destination | safeURL }}" {{ with .Title}} data-title="{{ . }}"{{ end }} data-footer="{{ .Text }}"
+alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+{{ else }}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+{{end}}
