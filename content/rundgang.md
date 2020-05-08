@@ -9,7 +9,7 @@ weight = 5
 [[gallery_entry]]
 bild = "/img/rundgang/P1070817.jpg"
 description = "  Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert "
-title = ""
+title = "Baroktruhe"
 [[gallery_entry]]
 bild = "/img/rundgang/P1070039.jpg"
 description = "   "
