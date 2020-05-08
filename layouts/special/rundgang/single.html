@@ -9,9 +9,10 @@
 
 
 {{range .Param "gallery_entry"}}
-    {{ $test := print (.bild) }}
-    {{ $title := cond (ne .title "") .title " " }}
-    {{ $desc := cond (ne (trim .description " ") "") (trim .description " ") " " }}
+    {{ $test := print (.bild)}}
+    {{ $title := .title }}
+    {{ $desc := .description }}
+    {{ with $}}
         {{if (resources.GetMatch $test)}}
             {{ $originalimg := resources.GetMatch $test }}
             {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
@@ -22,7 +23,9 @@
         {{ else }}
         <script>console.log({{ resources.GetMatch $test }})</script>
         <script>console.log({{ $test }})</script>
+        <script>console.log({{ resources }})</script>
         {{ end }}
+    {{ end }}
 {{ end }}
 
     <!-- Bootstrap Lightbox by ahsleydw MIT License-->
