@@ -8,9 +8,13 @@ fields:
     required: false
   label: Titel
 - name: hint
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: true
+    schema:
+      format: markdown
   label: Hinweis
 - name: gallery_entry
   type: field_group_list
