@@ -168,7 +168,7 @@ description = " Wir haben immer verschiedene Nachtschränkchen auf Lager.Preise 
 title = "Nachschränkchen"
 [[gallery_entry]]
 bild = "/img/rundgang/Bild (19).JPG"
-description = " Original erhaltene Biedermeierausatzvitrine aus massiv Kirschholz, original altes Glas, keine Ergänzungen, SchellackhandpoliertPreis 4500.- Euro "
+description = "Original erhaltene Biedermeieraufsatzvitrine aus massiv Kirschholz, original altes Glas, keine Ergänzungen, Schellackhandpoliert Preis 4500.- Euro"
 title = "Kirschholz Biedermeier Aufsatzvitrine"
 [[gallery_entry]]
 bild = "/img/rundgang/Bild (18).JPG"
