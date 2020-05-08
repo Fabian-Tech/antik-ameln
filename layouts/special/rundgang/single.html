@@ -9,7 +9,7 @@
 
 
 {{range .Param "gallery_entry"}}
-    {{ $test := .bild }}
+    {{ $test := print (.bild) }}
     {{ $title := cond (ne .title "") .title " " }}
     {{ $desc := cond (ne (trim .description " ") "") (trim .description " ") " " }}
         {{if (resources.GetMatch $test)}}
