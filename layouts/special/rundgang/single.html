@@ -9,15 +9,20 @@
 
 
 {{range .Param "gallery_entry"}}
-    {{ $test := .bild}}
+    {{ $test := .bild }}
     {{ $title := cond (ne .title "") .title " " }}
     {{ $desc := cond (ne (trim .description " ") "") (trim .description " ") " " }}
+        {{if (resources.GetMatch $test)}}
             {{ $originalimg := resources.GetMatch $test }}
             {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
             {{ $thumbnail := $.Scratch.Get "image" }}
             <a class="gallery" href="{{$test}}" data-toggle="lightbox" data-gallery="rundgang" data-title="{{ $title }}" data-footer="{{ $desc }}">
                 <img src='{{ $thumbnail.RelPermalink }}'>
             </a>
+        {{ else }}
+        <script>console.log({{ resources.GetMatch $test }})</script>
+        <script>console.log({{ $test }})</script>
+        {{ end }}
 {{ end }}
 
     <!-- Bootstrap Lightbox by ahsleydw MIT License-->
