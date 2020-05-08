@@ -2,7 +2,7 @@
 draft = true
 [[gallery_entry]]
 bild = "/img/rundgang/SAM_0363.jpg"
-description = "Zum sitzen"
+description = "Zum \"sitzen\""
 title = "Stuhl"
 [[gallery_entry]]
 bild = "/img/rundgang/SAM_0361.jpg"
