@@ -3,6 +3,8 @@ title = "Impressum"
 [menu.mainmenu]
 title = "Impressum"
 weight = 7
+[meta]
+title = "Antik-Ameln > Impressum"
 
 +++
 Inhaltlich Verantwortlicher gemäß § 6 MDStV:

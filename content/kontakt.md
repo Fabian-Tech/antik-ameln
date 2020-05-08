@@ -4,6 +4,8 @@ type = "special/kontakt"
 [menu.mainmenu]
 title = "Kontakt"
 weight = 6
+[meta]
+title = "Kontakt zu Antiquitäten Ameln in Koblenz"
 
 +++
 Telefon: 0261 - 702566  

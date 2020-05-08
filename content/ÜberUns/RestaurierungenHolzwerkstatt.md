@@ -5,6 +5,8 @@ name = "Restaurierungen, Holzwerkstatt"
 parent = "aboutUs"
 title = "Restaurierungen, Holzwerkstatt"
 weight = 1
+[meta]
+title = "Antik-Ameln > Über Uns > Restaurierungen, Holzwerkstatt"
 
 +++
 Der Weg von vorher

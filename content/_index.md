@@ -5,7 +5,8 @@ menu:
     name: aboutUs
     title: Über uns
     weight: 3
-
+meta:
+  title: Antiquitäten Ameln Koblenz Ehrenbreitstein
 ---
 ![](/img/PIC00091.jpg)
 

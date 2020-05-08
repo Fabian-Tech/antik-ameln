@@ -5,6 +5,8 @@ name = "Holzschädlinge"
 parent = "aboutUs"
 title = "Holzschädlinge"
 weight = 4
+[meta]
+title = "Biologische Holzschädlingsbekämpfung"
 
 +++
 Garantiert todsicher!

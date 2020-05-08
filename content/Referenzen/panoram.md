@@ -4,6 +4,8 @@ title = "Panoram"
 parent = "references"
 title = "Panoram"
 weight = 3
+[meta]
+title = "Antik-Ameln > Panoram"
 
 +++
 **Ein Panoram ist eine visuelle Musikbox mit Münzeinwurf aus den 40er Jahren. Hergestellt in den USA in Handarbeit aus hochwertigen Materialien. Gleichzeitig zur Musik wurden 3,5 Minuten Filme abgespielt, die durch Rückwandprojektion auf einem Bildschirm zu sehen waren. Diese sogenannten Soundies zeigten die großen Stars der Epoche, hauptsächlich Jazzgrößen wie Duke Ellington, Count Basie und Cap Calloway.**

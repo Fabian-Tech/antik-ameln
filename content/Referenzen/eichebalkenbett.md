@@ -4,6 +4,8 @@ title = "Eichebalkenbett"
 parent = "references"
 title = "Eichebalkenbett"
 weight = 4
+[meta]
+title = "Antik-Ameln > Eichebalkenbett"
 
 +++
 Auf Maß angefertigt ein Bett aus Eichebalken mit speziell derber, rustikaler Oberfläche. Geschrubbt und geölt. Wir können aber auch jede andere Oberfläche anbieten.

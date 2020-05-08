@@ -7,7 +7,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 name = "references"
 title = "Referenzen"
 weight = 8
-
-[[module.mounts]]
-source = "static"
-target = "assets"
+[params]
+[params.meta]
+author = "Antik-Ameln"
+description = "Antik, Ameln, Möbel, Koblenz, Ehrenbreitstein, Antiquitäten, Restaurierung, Werkstatt, Schreinerwerkstatt, Holzwerkstatt, Möbel original, Möbel funktional, biologische Oberflächen, Klimakammer, Holzwurmbehandlung, Abbeizen rationell, Abbeizen schonend"
+title = "Antiquitäten Ameln Koblenz Ehrenbreitstein"
+keywords = "Antik, Ameln, Möbel, Koblenz, Ehrenbreitstein, Antiquitäten, Restaurierung, Werkstatt,Möbel original, Möbel funktional, biologische Oberflächen, Klimakammer, Holzwerkstatt, Schreinerwerkstatt,Holzwurmbehandlung, Abbeizen rationell, Abbeizen schonend"
+copyright = "Antik Ameln 2008"
