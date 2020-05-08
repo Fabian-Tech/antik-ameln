@@ -25,3 +25,5 @@ fields:
     max: 
     labelField: 
   label: Eintrag
+pages:
+- content/rundgang.md
