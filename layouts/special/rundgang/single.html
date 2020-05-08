@@ -12,7 +12,6 @@
     {{ $test := .bild}}
     {{ $title := cond (ne .title "") .title " " }}
     {{ $desc := cond (ne (trim .description " ") "") (trim .description " ") " " }}
-    {{ with $}}
         {{if (resources.GetMatch $test)}}
             {{ $originalimg := resources.GetMatch $test }}
             {{$.Scratch.Set "image" ($originalimg.Fill "120x120 Center") }}
@@ -24,7 +23,6 @@
         <script>console.log({{ resources.GetMatch $test }})</script>
         <script>console.log({{ $test }})</script>
         {{ end }}
-    {{ end }}
 {{ end }}
 
     <!-- Bootstrap Lightbox by ahsleydw MIT License-->
