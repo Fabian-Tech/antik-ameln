@@ -1,6 +1,30 @@
 +++
 draft = true
 [[gallery_entry]]
+title = ""
+bild = "/Portals/36/Rundgang/P1070817.jpg"
+description = " &nbsp;Diese wunderschöne Baroktruhe wurde nach Frankfurt geliefert "
+[[gallery_entry]]
+title = "Kommode Jugenstil"
+bild = "/Portals/36/Rundgang/P1070039.jpg"
+description = " &nbsp; "
+[[gallery_entry]]
+title = "Vertiko Jugendstil"
+bild = "/Portals/36/Rundgang/P1070036.jpg"
+description = " &nbsp; "
+[[gallery_entry]]
+title = "vierschübige Gründerzeitkommode"
+bild = "/Portals/36/Rundgang/P1070031.jpg"
+description = " &nbsp; "
+[[gallery_entry]]
+title = "Schaukelpferd Biedermeier"
+bild = "/Portals/36/Rundgang/P1070032.jpg"
+description = " &nbsp;Fast original erhaltenes Schaukelpferd aus der Biedermeierzeit. Solide und nicht aus Plastik! "
+[[gallery_entry]]
+title = "Nachtschränkchen Jugendstil"
+bild = "/Portals/36/Rundgang/P1070030.jpg"
+description = " &nbsp; "
+[[gallery_entry]]
 title = "Regale"
 bild = "/Portals/36/Rundgang/SAM_0386.jpg"
 description = " BücherregalVon diesem aus einer Bibliothek stammenden Regal konnen wir Ihnen verschiedene Breiten anbieten. Mit einem Unterteil in 40cm Tiefe und einer Höhe von 80cm kann man eine Gesamthöhe von 315cm abdecken.Außerdem haben wir noch eine Vielzahl an anderen Regalen. "
