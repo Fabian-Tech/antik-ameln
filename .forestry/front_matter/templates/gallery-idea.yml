@@ -25,5 +25,3 @@ fields:
     max: 
     labelField: 
   label: Eintrag
-pages:
-- content/test2.md
