@@ -24,7 +24,7 @@ description = "   "
 title = "vierschübige Gründerzeitkommode"
 [[gallery_entry]]
 bild = "/img/rundgang/P1070032.jpg"
-description = "Fast original erhaltenes Schaukelpferd aus der Biedermeierzeit.\n\nSolide und nicht aus Plastik!"
+description = "Fast original erhaltenes Schaukelpferd aus der Biedermeierzeit. Solide und nicht aus Plastik!"
 title = "Schaukelpferd Biedermeier"
 [[gallery_entry]]
 bild = "/img/rundgang/P1070030.jpg"
