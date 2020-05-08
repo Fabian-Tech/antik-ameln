@@ -32,7 +32,7 @@ description = "   "
 title = "Nachtschränkchen Jugendstil"
 [[gallery_entry]]
 bild = "/img/rundgang/SAM_0386.jpg"
-description = " BücherregalVon diesem aus einer Bibliothek stammenden Regal konnen wir Ihnen verschiedene Breiten anbieten. Mit einem Unterteil in 40cm Tiefe und einer Höhe von 80cm kann man eine Gesamthöhe von 315cm abdecken.Außerdem haben wir noch eine Vielzahl an anderen Regalen. "
+description = "Bücherregal\n\nVon diesem aus einer Bibliothek stammenden Regal konnen wir Ihnen verschiedene Breiten anbieten. Mit einem Unterteil in 40cm Tiefe und einer Höhe von 80cm kann man eine Gesamthöhe von 315cm abdecken. Außerdem haben wir noch eine Vielzahl an anderen Regalen."
 title = "Regale"
 [[gallery_entry]]
 bild = "/img/rundgang/SAM_0385.jpg"
