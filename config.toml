@@ -4,6 +4,11 @@ title = "Antik Ameln"
 assetDir = "/static/"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 disablePathToLower = true
+
+[[module.mounts]]
+source = "static"
+target = "assets"
+
 [[menu.mainmenu]]
 name = "references"
 title = "Referenzen"
