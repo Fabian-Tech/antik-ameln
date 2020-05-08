@@ -1,5 +1,5 @@
 ---
-label: gallery idea
+label: Rundgang
 hide_body: true
 fields:
 - name: title
@@ -30,9 +30,13 @@ fields:
       required: false
     label: Titel
   - name: description
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: Beschreibung
   config:
     min: 
