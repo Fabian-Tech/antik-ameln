@@ -98,11 +98,11 @@ bild = "/img/rundgang/PIC003891.jpg"
 description = " Weichholzschrank, Kiefer, zerlegbar, schön proportioniert, ausgewogene Maserung, grundiert &amp; gewachstHöhe 202 cm, Breite 143 cm, Tiefe 62 cm, "
 title = "Jugendstilschrank"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (58).JPG"
+bild = "/img/rundgang/Bild_58.JPG"
 description = " Eiche Barockschrank mit Kufen. Sogenannter Zwickel, wird mittig durch Keile zusammengehalten.Masse Höhe 164cm, Breite 153 cm, Tiefe 44 cm Verkauft an einen wunderschönen mittelalterlichen Hof in Münstermaifeld. Sieht aus als hätte er immer schon dort gestanden.  "
 title = "Barockschrank"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (54).JPG"
+bild = "/img/rundgang/Bild_54.JPG"
 description = " Verkauft "
 title = ""
 [[gallery_entry]]
@@ -114,11 +114,11 @@ bild = "/img/rundgang/DSC_0211.jpg"
 description = " Umbau eines Gründerzeittisches als Waschtisch, mit Ausschnitt für Zu- und Abfluß,zusätzlich stabilisiert und mit einem Zwischenboden,2 mal geölt "
 title = "Waschtisch"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (3).JPG"
+bild = "/img/rundgang/Bild_3.JPG"
 description = " Ein schlichter Biedermeier Küchenschrank aus Weichholz. Die Oberfläche ist wie bei allen unseren Möbeln mit Biopin Materialien behandelt "
 title = "Biedermeierküchenschrank"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (48).JPG"
+bild = "/img/rundgang/Bild_48.JPG"
 description = " Wir haben von diesem Jugenstil-Stuhl einen kompletten 4er Satz. Neu gepolstert, Unterkonstruktion wie im Original mit Rohrgeflecht. Der Stoff ist Rupfen. Sie haben die Möglichkeit einen für Sie passenden Stoff aufziehen zu lassen. "
 title = "Jugenstilstuhl"
 [[gallery_entry]]
@@ -142,11 +142,11 @@ bild = "/img/rundgang/PIC00391.jpg"
 description = "  Originale Bemalung,Schriftzug \"Josefh Schneider, Barbara Schneider 1833\" "
 title = "Bauernschrank"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (28).JPG"
+bild = "/img/rundgang/Bild_28.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (27).JPG"
+bild = "/img/rundgang/Bild_27.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
@@ -154,7 +154,7 @@ bild = "/img/rundgang/PIC00393.jpg"
 description = " Kleiderschrank, Tanne,geölt  mit zwei Schubladen und KleiderbügeltiefeMaße: B. 1,52m           H. 2,17m          T. 0,64m "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (23).JPG"
+bild = "/img/rundgang/Bild_23.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
@@ -162,23 +162,23 @@ bild = "/img/rundgang/SAM_0355.jpg"
 description = "   "
 title = "Gründerzeitschrank"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (21).JPG"
+bild = "/img/rundgang/Bild_21.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (20).JPG"
+bild = "/img/rundgang/Bild_20.JPG"
 description = " Wir haben immer verschiedene Nachtschränkchen auf Lager.Preise ab 165.- Euro "
 title = "Nachschränkchen"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (19).JPG"
+bild = "/img/rundgang/Bild_19.JPG"
 description = "Original erhaltene Biedermeieraufsatzvitrine aus massiv Kirschholz, original altes Glas, keine Ergänzungen, Schellackhandpoliert Preis 4500.- Euro"
 title = "Kirschholz Biedermeier Aufsatzvitrine"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (18).JPG"
+bild = "/img/rundgang/Bild_18.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (17).JPG"
+bild = "/img/rundgang/Bild_17.JPG"
 description = " Verkauft "
 title = ""
 [[gallery_entry]]
@@ -190,23 +190,23 @@ bild = "/img/rundgang/PIC00396.jpg"
 description = "  Gründerzeitvertiko aus Kiefer mit Aufsatz "
 title = "Gründerzeitvertiko"
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (14).JPG"
+bild = "/img/rundgang/Bild_14.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (13).JPG"
+bild = "/img/rundgang/Bild_13.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (8).JPG"
+bild = "/img/rundgang/Bild_8.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (7).JPG"
+bild = "/img/rundgang/Bild_7.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
-bild = "/img/rundgang/Bild (6).JPG"
+bild = "/img/rundgang/Bild_6.JPG"
 description = " "
 title = ""
 [[gallery_entry]]
