@@ -16,6 +16,6 @@ meta:
 
 **Wir verarbeiten Öle und Lacke der Firma**
 
-[![](/img/biopin.gif)](http://biopin.de/)
+[![](/biopin.gif)](http://biopin.de/)
 
 [**Datenschutzerklärung**](/datenschutz)
