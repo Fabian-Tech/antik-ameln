@@ -30,7 +30,7 @@ sections:
   templates:
   - standard
   - gallery-idea
-upload_dir: static/img
+upload_dir: static
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
