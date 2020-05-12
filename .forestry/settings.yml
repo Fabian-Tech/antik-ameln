@@ -25,6 +25,7 @@ sections:
   match: "*"
   templates:
   - standard
+  - gallery-idea
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
