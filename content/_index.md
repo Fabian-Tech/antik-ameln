@@ -1,5 +1,5 @@
 ---
-title: SEIT MEHR ALS 30 JAHREN IN EHRENBREITSTEIN
+title: Seit mehr als 30 Jahren in Ehrenbreitstein
 menu:
   mainmenu:
     name: aboutUs

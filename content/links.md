@@ -1,5 +1,5 @@
 ---
-title: INTERESSANTE LINKS ZU UNSEREN PARTNERN UND FREUNDEN
+title: Interessante Links zu unseren Partnern und Freunden
 menu:
   mainmenu:
     name: Links
