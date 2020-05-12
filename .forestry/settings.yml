@@ -9,13 +9,15 @@ sections:
 - type: directory
   path: content/Referenzen
   label: Referenzen
-  create: none
+  create: documents
   match: "**/*"
 - type: directory
   path: content/ÜberUns
   label: Über Uns - Unterpunkte
   create: none
   match: "**/*"
+  templates:
+  - standard
 - type: directory
   path: content
   label: Seiten
