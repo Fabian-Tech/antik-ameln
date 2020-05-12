@@ -9,17 +9,17 @@ sections:
 - type: directory
   path: content/Referenzen
   label: Referenzen
-  create: documents
+  create: none
   match: "**/*"
 - type: directory
   path: content/ÜberUns
   label: Über Uns - Unterpunkte
-  create: documents
+  create: none
   match: "**/*"
 - type: directory
   path: content
   label: Seiten
-  create: documents
+  create: none
   match: "*"
 upload_dir: static/img
 public_path: "/img"
